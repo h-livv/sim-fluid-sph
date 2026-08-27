@@ -111,7 +111,3 @@ rather than a single monolithic solver.
 # Credits
 
 Developed within **SEDS Celestia, BITS Goa**.
-
-Contributors
-
-- [Harliv Singh](https://github.com/h-livv)
